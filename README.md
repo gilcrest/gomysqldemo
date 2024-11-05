@@ -1,2 +1,3 @@
 # mysqlgodemo
-Simple demo of connecting to MySql using NewConnector
+
+Simple demo of connecting to MySql with Go github.com/go-sql-driver/mysql driver using NewConnector
